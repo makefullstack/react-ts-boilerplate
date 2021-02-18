@@ -1,0 +1,2 @@
+(()=>{"use strict";var e={957:(e,t,r)=>{Object.defineProperty(t,"__esModule",{value:!0});const l=r(804);t.default=()=>l.createElement("div",null,"Hello world")},804:e=>{e.exports=React},196:e=>{e.exports=ReactDOM}},t={};function r(l){if(t[l])return t[l].exports;var o=t[l]={exports:{}};return e[l](o,o.exports,r),o.exports}(()=>{const e=r(804),t=r(196),l=r(957);t.render(e.createElement((()=>e.createElement(l.default,null)),null),document.querySelector("#root"))})()})();
+//# sourceMappingURL=main.js.map
